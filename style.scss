@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section{
+    p{
+        font-size: 4px;
+        // font-size: 4rem;
+    }
+}
+
+.div1{
+    width: 400px;
+    height: 300px;
+    background-color: burlywood;
+}
+.div2{
+    width: 50vw;
+    height: 50vh;
+    background-color: teal;
+    div{
+        width: 100%;
+        height: 50%;
+        background-color: red;
+    }
+}
